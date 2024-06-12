@@ -1,0 +1,16 @@
+Starters:
+Bruschetta 50
+Stuffed Mushrooms 45
+Garlic Bread 30
+
+Dinner:
+Spaghetti Carbonara 120
+Grilled Salmon 150
+Chicken Alfredo 130
+Vegetarian Lasagna 100
+
+Desserts:
+Tiramisu 60
+Cheesecake 55
+Gelato 40
+Chocolate Lava Cake 70

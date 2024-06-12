@@ -1,0 +1,37 @@
+package com.josi.model;
+
+import java.time.LocalDateTime;
+
+public class Item {
+    private String name;
+    private int price;
+
+    // Constructor
+    public Item(String name, int price) {
+        this.name = name;
+        this.price = price;
+    }
+
+    // Getters and setters
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getPrice() {
+        return price;
+    }
+
+    public void setPrice(int price) {
+        this.price = price;
+    }
+
+    @Override
+    public String toString() {
+        return name + ", " + price + " kr";
+    }
+}
+

@@ -1,0 +1,5 @@
+Hamburger 450
+Wagyu 800
+Øl 120
+Sushi 130
+icecream 15

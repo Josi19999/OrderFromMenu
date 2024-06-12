@@ -1,0 +1,6 @@
+How to populate the database from file and also read from it:
+Run the main in src/main/java/com/josi/service/PopulateDatabaseFromFile
+If duplicate name will print error, exception handling .
+Run Main in src/main/java/com/josi/Main.java after, and choose 1: show menu.
+
+Still testing, debugging...
